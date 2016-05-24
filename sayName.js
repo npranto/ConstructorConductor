@@ -10,7 +10,7 @@
 
   //code here
   var person1 = new Person("shakib", 20);
-  var person2 = new Person("jack", 21);
+  var person2 = new Person("artyom", 21);
   var person3 = new Person("Ismail", 20);
 
 
